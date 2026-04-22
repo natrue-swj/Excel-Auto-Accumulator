@@ -1,0 +1,23 @@
+# Python 自动生成文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# 打包生成的文件
+dist/
+build/
+*.spec
+
+# Excel
+~$*.xlsx
+*.xls
